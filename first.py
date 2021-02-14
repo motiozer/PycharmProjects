@@ -1,4 +1,3 @@
-print(123)
-print(2)
-print(2323)
+x=2
+
 
